@@ -249,7 +249,7 @@ Galileo              ⚠️ Main attack target    ⚠️ Easily spoofed
 
 ### Spectrum Output
 
-![Spoofing Detection](screenshots/spoofing_spectrum_output.png)
+![Spoofing Detection](Screenshots/spoofing_spectrum_output.png)
 
 | Observation | Meaning |
 |-------------|---------|
@@ -261,7 +261,7 @@ Galileo              ⚠️ Main attack target    ⚠️ Easily spoofed
 
 ### Simulation 2 — Combined Attack (Jamming + Spoofing + Mitigation)
 
-![GNU Radio Flowgraph](screenshots/gnuradio_flowgraph.png)
+![GNU Radio Flowgraph](Screenshots/gnuradio_flowgraph.png)
 
 ```
 [Signal Source — Real GNSS]──────────────────────────────►┐
