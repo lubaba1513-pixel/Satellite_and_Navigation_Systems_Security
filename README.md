@@ -371,7 +371,6 @@ Cybersecurity Student | Aspiring SOC Analyst | Pakistan
 Diploma in Cloud Cyber Security | RQF Level 3
 
 [![GitHub](https://img.shields.io/badge/GitHub-lubaba1513--pixel-181717?style=flat&logo=github)](https://github.com/lubaba1513-pixel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 *⚠️ For educational purposes only. All simulations conducted in an isolated virtual environment. No real GNSS signals were transmitted or interfered with.*
 
